@@ -23,4 +23,4 @@ Resources
 - [Zerodha - Equity Intraday Charges](https://zerodha.com/charges#tab-equities)
 
 Contributors
-- [Your Name](link to your GitHub profile)
+- Rohit Kag.https://github.com/Rohitkag03/Kite-PnL
