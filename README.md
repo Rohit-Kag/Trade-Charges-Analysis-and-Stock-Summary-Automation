@@ -39,4 +39,4 @@ Open main.ipynb in a Jupyter Notebook environment and execute the cells to run t
 - [Zerodha - Equity Intraday Charges](https://zerodha.com/charges#tab-equities)
 
 ## Contributors
-- Rohit Kag.https://github.com/Rohitkag03/Kite-PnL
+- Rohit Kag https://github.com/Rohit-Kag/Trade-Charges-Analysis-and-Stock-Summary-Automation
